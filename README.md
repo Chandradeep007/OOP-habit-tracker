@@ -173,6 +173,5 @@ python -m pytest -q
  - The application is designed as a CLI backend; no GUI is required.
  - SQLite database files (e.g., habits.db) are generated at runtime; you can safely delete them to start fresh.
  - For final submission packaging, ensure the GitHub repository content and the ZIP submission content are identical.
- - 
 
 
